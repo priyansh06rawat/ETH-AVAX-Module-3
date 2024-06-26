@@ -22,6 +22,8 @@ To deploy the contract, you can use Remix or any other Solidity development envi
 
 3. **Interact**: After deployment, interact with the contract to mint tokens, burn tokens, and transfer tokens between addresses.
 
+# Author
+Priyansh [@priyansh06rawat](https://github.com/priyansh06rawat)
 
 ## License
 
