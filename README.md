@@ -1,7 +1,7 @@
 # ETH-AVAX-Module-3
 ## Overview
 
-This repository contains a simple implementation of a token smart contract in Solidity. The `MyToken` contract allows for minting tokens, burning tokens, and transferring tokens between addresses.
+This repository contains a simple implementation of a token smart contract in Solidity. The `Function` contract allows for minting tokens, burning tokens, and transferring tokens between addresses.
 
 ## Features
 
@@ -16,7 +16,7 @@ To deploy the contract, you can use Remix or any other Solidity development envi
 
 ### Steps
 
-1. **Compile**: Compile the `MyToken.sol` file using your preferred Solidity compiler.
+1. **Compile**: Compile the `module3.sol` file using your preferred Solidity compiler.
    
 2. **Deploy**: Deploy the compiled contract to an Ethereum blockchain. Specify the `name` and `symbol` parameters during deployment.
 
