@@ -27,7 +27,7 @@ To deploy the contract, you can use Remix or any other Solidity development envi
 ## Help
 1. Insure that the correct version of complier is written in your contract or set from "compile" button from left side tool bar.
    ```
-   pragma solidity ^0.8.20;
+   pragma solidity ^0.8.25;
    ```
 2. Insure to import the files for ERC20 token:
    ```
