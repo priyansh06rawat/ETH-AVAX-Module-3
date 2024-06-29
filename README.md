@@ -26,11 +26,13 @@ To deploy the contract, you can use Remix or any other Solidity development envi
 3. **Interact**: After deployment, interact with the contract to mint tokens, burn tokens, and transfer tokens between addresses.
 ## Help
 Insure that the correct version of complier is written in your contract or set from "compile" button from left side tool bar.
-```pragma solidity ^0.8.20;```
+```
+pragma solidity ^0.8.20;
+```
 Insure to import the files for ERC20 token:
-```import "@openzeppelin/contracts/token/ERC20/ERC20.sol";```
-```import "@openzeppelin/contracts/access/Ownable.sol";```
-```import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";```
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 Ensure that you have passed MIT License in your contract otherwise the complier will show error.
 // SPDX-License-Identifier: MIT
 # Author
